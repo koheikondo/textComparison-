@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FE3FDFEB-81E1-47BA-8B37-56C495EF58C6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TextComparison</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2CBDE88E5669CF9AA2D53701D56E8F2474CDF2FA</key>
+		<string>https://github.com/koheikondo/textComparison-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TextComparison.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2CBDE88E5669CF9AA2D53701D56E8F2474CDF2FA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/koheikondo/textComparison-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2CBDE88E5669CF9AA2D53701D56E8F2474CDF2FA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2CBDE88E5669CF9AA2D53701D56E8F2474CDF2FA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TextComparison</string>
+		</dict>
+	</array>
+</dict>
+</plist>
